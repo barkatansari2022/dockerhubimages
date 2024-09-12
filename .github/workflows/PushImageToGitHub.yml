@@ -20,4 +20,4 @@ jobs:
         with:
           context: DockerFileFolder/
           push: true
-          tags: baraktullah/github-action-docker-image-build:latest
+          tags: baraktullah/github-action-docker-image-build:latest3
